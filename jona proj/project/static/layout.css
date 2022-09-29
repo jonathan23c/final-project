@@ -1,0 +1,23 @@
+body{
+    background-color: #C6DCE4;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+}
+ul{
+    background-color: #839AA8;
+    padding: 12px 20px;
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover{
+    color:white;
+}
+li a:hover{
+    background-color: black;
+    padding: 12px 20px;
+}
